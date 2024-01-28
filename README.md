@@ -1,7 +1,3 @@
-<div>
-  <img src="https://github.com/BenCodeurr/BenCodeur/blob/main/assets/cover.png"/>
-</div>
-
 <h2>Hey ! I'm Ben</h2>
 <p>I'm a creative coder and self-proclaimed designer who specializes in web development. I'm passionate about creating Technology to elevate People and building community.</p>
 :zap: In my free time, I listen to some Tech & business Podcasts and read some tech & business articles.</p>
